@@ -1,15 +1,17 @@
 package InterfPackage;
 
-public abstract class SuperClass2 {
+public abstract class Trees extends Plants {
     public int treeHeight;
     public String name;
     public String leafNeedle;
 
-    public SuperClass2(int treeHeight, String name, String leafNeedle) {
+    public Trees(int treeHeight, String name, String leafNeedle) {
         this.treeHeight = treeHeight;
         this.name = name;
         this.leafNeedle = leafNeedle;
     }
+
+    public void apstraktneMeetod(){}
 
     public String leafOrNeedles() {
         if (this.leafNeedle == "leaf") ;

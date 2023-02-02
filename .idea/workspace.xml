@@ -4,19 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1c405bac-80f8-461a-b88a-cfa9faa0ee3b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+    <list default="true" id="1c405bac-80f8-461a-b88a-cfa9faa0ee3b" name="Changes" comment="22.012023 versioon">
+      <change afterPath="$PROJECT_DIR$/src/main/java/InterfPackage/Plants.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/InterfPackage/Blooming.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/InterfPackage/Blooming.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/InterfPackage/Pine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/InterfPackage/Pine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/InterfPackage/SuperClass1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/InterfPackage/SuperClass2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/InterfPackage/SuperClass2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +46,7 @@
   "keyToString": {
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "last_directory_selection": "C:/Users/Kasutaja/IdeaProjects/Gradle_21_01_23/src/main/java",
-    "last_opened_file_path": "C:/Users/Kasutaja/IdeaProjects/Gradle_21_01_23"
+    "last_opened_file_path": "C:/Users/Kasutaja/IdeaProjects/JavaRemoteEE22"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -64,6 +58,13 @@
       <option name="presentableId" value="Default" />
       <updated>1674294813228</updated>
     </task>
+    <task id="LOCAL−00001" summary="22.012023 versioon">
+      <created>1674375961091</created>
+      <option name="number" value="LOCAL−00001" />
+      <option name="presentableId" value="LOCAL−00001" />
+      <updated>1674375961091</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -76,5 +77,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="22.012023 versioon" />
+    <option name="LAST_COMMIT_MESSAGE" value="22.012023 versioon" />
   </component>
 </project>

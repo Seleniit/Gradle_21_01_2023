@@ -1,6 +1,10 @@
 package InterfPackage;
 
-public class Pine  implements Grow, Blooming, Fruits {
+public class Pine extends Trees implements Grow, Blooming, Fruits {
+
+    public Pine(int treeHeight, String name, String leafNeedle) {
+        super(treeHeight, name, leafNeedle);
+    }
 
     public void quickly() {
         System.out.println("grows quickly.");
