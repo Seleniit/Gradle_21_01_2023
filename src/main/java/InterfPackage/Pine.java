@@ -6,6 +6,15 @@ public class Pine extends Trees implements Grow, Blooming, Fruits {
         super(treeHeight, name, leafNeedle);
     }
 
+    public Pine() {
+        super();
+    }
+
+    @Override
+    public void apstraktneMeetod() {
+
+    }
+
     public void quickly() {
         System.out.println("grows quickly.");
     }

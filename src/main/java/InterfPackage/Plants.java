@@ -10,5 +10,12 @@ public class Plants {
         this.climaticBelts=climaticBelts;
         this.naturalSpecies=naturalSpecies;
     }
-    public
+
+    public Plants() {
+
+    }
+
+    public String getLifeArc(){return lifeArc;}
+    public String getClimaticBelts(){return climaticBelts;}
+    public boolean getnaturalSpecies(){return true;}
 }
